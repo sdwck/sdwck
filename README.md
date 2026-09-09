@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Vlad — a software engineer from Moldova who ships things end-to-end.
+I'm Vlad — a software engineer from Moldova.
 
 I build with **C#/.NET**, **React/TypeScript**, and whatever else the project needs — from distributed backends and event pipelines to desktop apps and browser extensions.
 
