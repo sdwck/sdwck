@@ -2,8 +2,6 @@
 
 I'm Vlad — a software engineer from Moldova.
 
-I build with **C#/.NET**, **React/TypeScript**, and whatever else the project needs — from distributed backends and event pipelines to desktop apps and browser extensions.
-
 ### Flagship
 
 **[ToggleMesh](https://github.com/sdwck/ToggleMesh)** — Feature flag & A/B testing engine.  
